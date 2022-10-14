@@ -1,4 +1,5 @@
 // public keyword necessary anonnu ariyilla!!
+// work cheyuvonnu ariyiilla..
 public class shapes {
     double area ;
     int length;
